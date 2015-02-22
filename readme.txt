@@ -35,9 +35,9 @@ this site to display the proper sales information.
 	index.html
 	contactform.html
 
-Open the two HTML files in your favorite text editor, and use the search and
-replace text function to look for the following variables (including the leading 
-and trailing # symbols):
+Open the two HTML files in your favorite text editor, and use the search and 
+replace text function to look for the following variables (including the
+leading and trailing # symbols):
 
 	#DOMAIN_URL# 
 	Example: www.domain.com
@@ -63,9 +63,13 @@ by visiting and submitting dummy information first.  Then verify the form via
 an email you'll get, then future queries on this domain will be directed
 straight to your email.  We use Formspree.io to handle the form.
 
+http://formspree.io/
+
 The HTML page is wickedly simple, feel free to edit any of the copy to suit your 
 needs, or help convince browsers that your cool domain is their new baby!  
 The images have been optimized as much as possible, and are a quick download.
+The design is not optimized for mobile devices, and I tried to avoid using
+browser-specific css queries as much as possible.
 
 Author
 --------
