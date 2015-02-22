@@ -12,7 +12,8 @@ as we can in this design.
 
 The Latest Version
 ------------------
-This project is hosted on GitHub.
+This project is hosted on GitHub.  Find source files and updates at this URL:
+https://github.com/underdesign/domain4sale
 
 Files in This Distribution
 ---------------------
@@ -65,6 +66,3 @@ Author
 Andrew Davidson at Under Design
 info@undr.com
 Version 1 - February 22, 2015
-
-
-This project and design files can be modified and redistributed as
