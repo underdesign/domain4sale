@@ -15,6 +15,9 @@ The Latest Version
 This project is hosted on GitHub.  Find source files and updates at this URL:
 https://github.com/underdesign/domain4sale
 
+Find an unaltered copy at this URL:
+http://old.undr.com/portfolio/websites/domain4sale/
+
 Files in This Distribution
 ---------------------
 	index.html
