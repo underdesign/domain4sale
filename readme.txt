@@ -33,7 +33,8 @@ this site to display the proper sales information.
 	contactform.html
 
 Open the two HTML files in your favorite text editor, and use the search and
-replace text function to look for the following variables (including the leading and trailing # symbols):
+replace text function to look for the following variables (including the leading 
+and trailing # symbols):
 
 	#DOMAIN_URL# 
 	Example: www.domain.com
@@ -41,8 +42,8 @@ replace text function to look for the following variables (including the leading
 	
 	#ASKING_PRICE#
 	Example:  $9,000
-	Include the currency symbol of choice.  You might have to use &yen;, &euro; 
-	or &pound; instead of $.
+	Include the currency symbol of choice.  You might have to use &yen;, 
+	&euro; or &pound; instead of $.
 	
 	#YOUR_EMAIL_ADDRESS#
 	Example: my@domain.ext
@@ -57,9 +58,11 @@ domain at that folder.
 Email queries will be directed to you directly.  You'll need to prime the form
 by visiting and submitting dummy information first.  Then verify the form via
 an email you'll get, then future queries on this domain will be directed
-straight to your email.
+straight to your email.  We use Formspree.io to handle the form.
 
-The HTML page is wickedly simple, feel free to edit any of the copy to suit your needs, or help convince browsers that your cool domain is their new baby!
+The HTML page is wickedly simple, feel free to edit any of the copy to suit your 
+needs, or help convince browsers that your cool domain is their new baby!  
+The images have been optimized as much as possible, and are a quick download.
 
 Author
 --------
