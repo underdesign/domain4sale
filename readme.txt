@@ -65,8 +65,8 @@ straight to your email.  We use Formspree.io to handle the form.
 
 http://formspree.io/
 
-The HTML page is wickedly simple, feel free to edit any of the copy to suit your 
-needs, or help convince browsers that your cool domain is their new baby!  
+The HTML page is wickedly simple, feel free to edit any of the copy to suit 
+your needs, or help convince browsers that your cool domain is their new baby!  
 The images have been optimized as much as possible, and are a quick download.
 The design is not optimized for mobile devices, and I tried to avoid using
 browser-specific css queries as much as possible.
